@@ -1,10 +1,10 @@
 export const siteConfig = {
   name: "sinnedpenguin",
-  description: "A full-stack web developer who loves building things that users enjoy using.",
+  description: "A dedicated and personable computer science student at American University interested in backend software engineering.",
   links: {
-    github: "https://github.com/sinnedpenguin",
-    cv: "",
+    github: "https://github.com/mw5762a",
+    cv: "Megan W Resume (1).pdf",
   },
-  avatar: "https://avatars.githubusercontent.com/u/133164950?v=4",
-  email: "sinnedpenguin@proton.me"
+  avatar: "Professional Looking Picture.jpg",
+  email: "megewills11@gmail.com"
 }
